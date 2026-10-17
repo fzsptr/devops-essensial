@@ -1,0 +1,28 @@
+{
+  "name": "devops-essensial",
+  "version": "1.0.0",
+  "description": "Berikut adalah bukti branch fitur yang dibuat oleh Maintainer/Collaborator",
+  "main": "script.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "jest --runInBand"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fzsptr/devops-essensial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fzsptr/devops-essensial/issues"
+  },
+  "homepage": "https://github.com/fzsptr/devops-essensial#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "jest": "^30.5.2",
+    "supertest": "^7.3.1"
+  }
+}
